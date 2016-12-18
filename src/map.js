@@ -55,10 +55,10 @@ export default class ReactMapboxGl extends Component {
     hash: false,
     preserveDrawingBuffer: false,
     center: [
-      -0.2416815,
-      51.5285582,
+      0,
+      0,
     ],
-    zoom: [11],
+    zoom: [1],
     minZoom: 0,
     maxZoom: 20,
     bearing: 0,
